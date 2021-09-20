@@ -4,13 +4,13 @@ html {
   box-sizing: border-box;
 }
 
-.body {
+body {
   margin: 0;
   background: #45badd;
 }
 
 .container {
-  width: 100vh;
+  width: 100vw;
   height: 100vh;
   display: flex;
   flex-direction: column;
